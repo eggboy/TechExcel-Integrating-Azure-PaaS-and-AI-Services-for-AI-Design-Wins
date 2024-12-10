@@ -75,7 +75,7 @@ def main():
 
     st.write(
         """
-    # Chat with Data
+    # Chat with Data 
 
     This Streamlit dashboard is intended to show off capabilities of Azure OpenAI, including integration with AI Search.
     """
